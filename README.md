@@ -1,8 +1,3 @@
-# webpack-vue-template
-Init template para proyectos Vue / uniTest
+# JEST Test Control launcher
 
-### component# debe coincidir con unitest(num)
-
-WARNING: 
-- Nunca se edita Main => las branches van numeradas según unitest
-- build de producción es build-prod
+gestiona listados de test por nombre de función y lanza la API/JEST_Control
